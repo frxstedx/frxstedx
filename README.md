@@ -6,7 +6,7 @@
 
 ⚡ Constantly coding, tinkering, and sharing the adventures
 
-#Tech Stack: 
-JAVA SWIFT C C++ HTML MATLAB
+Tech Stack: 
+JAVA SWIFT C C++ HTML MATLAB GIT 
 
 
