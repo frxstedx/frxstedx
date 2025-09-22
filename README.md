@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello! My name is Denton I am a Computer Science Student at Oklahoma State University
 
-<!--
-**frxstedx/frxstedx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭I am currently working on finishing up a fun game I was working on as a personal project!
 
-Here are some ideas to get you started:
+💬 I love front end development and also love learning and challenging myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Constantly coding, tinkering, and sharing the adventures
+
+#Tech Stack: 
+JAVA SWIFT C C++ HTML MATLAB
+
+![](https://github-readme-stats.vercel.app/api?username=frxstedx&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=frxstedx&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frxstedx&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
